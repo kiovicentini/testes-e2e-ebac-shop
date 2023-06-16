@@ -1,0 +1,29 @@
+[
+{
+"nome": "Albert",
+"sobrenome": "Wesker",
+"empresa":"Umbrella",
+"pais":"Brasil",
+"endereco": "Raccoon City",
+"numero":"1996",
+"cidade":"São Paulo",
+"estado":"São Paulo",
+"cep":"19961998",
+"telefone":"999999999",
+"email":"albert@wesker.com"
+},
+
+{
+"nome": "Doom",
+"sobrenome": "Guy",
+"empresa":"UCA",
+"pais":"Brasil",
+"endereco": "Mars City",
+"numero":"1993",
+"cidade":"São Paulo",
+"estado":"São Paulo",
+"cep":"19931994",
+"telefone":"666666666",
+"email":"doom@guy.com"
+}
+]
